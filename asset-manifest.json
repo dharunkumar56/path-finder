@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/path-finder/static/js/main.bb8f51a2.js",
+    "index.html": "/path-finder/index.html",
+    "main.bb8f51a2.js.map": "/path-finder/static/js/main.bb8f51a2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bb8f51a2.js"
+  ]
+}
